@@ -24,7 +24,7 @@ Contributions are welcome. Please submit a pull request or open an issue for any
 
 ## Questions
 
-For any questions, please contact me on GitHub at [obi-mazagri](https://github.com/obi-mazagri).
+For any questions, please contact me on GitHub at [mazagri3](https://github.com/mazagri3).
 
 ## Credits
 
